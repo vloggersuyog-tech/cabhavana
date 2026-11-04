@@ -1,0 +1,10 @@
+# Netlify local state
+.netlify/
+
+# Local secrets
+.env
+.env.local
+.env.*.local
+
+# Node dependencies
+node_modules/
